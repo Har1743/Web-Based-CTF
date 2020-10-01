@@ -20,13 +20,15 @@ Nowadays CTF is a game designed to let you learn to hack in a safe, rewarding en
 
 ## Instructions to play this ctf
 
+I have tested on my linux machine with apache2 server.  
+
 ```
 do with root user
 cd /var/www/html
 git clone https://github.com/Har1743/Web-Based-CTF.git
 cd Web-Based-CTF
 chmod -R 777 *
-service <apache2/anyhosting server> start
+service <apache2 or anyhosting server> start
 start with localhost/Web-Based-CTF/index.php
 ```
 
