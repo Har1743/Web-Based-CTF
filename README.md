@@ -23,10 +23,11 @@ Nowadays CTF is a game designed to let you learn to hack in a safe, rewarding en
 ```
 do with root user
 cd /var/www/html
-git clone
-cd 
+git clone https://github.com/Har1743/Web-Based-CTF.git
+cd Web-Based-CTF
 chmod -R 777 *
-
+service <apache2/anyhosting server> start
+start with localhost/Web-Based-CTF/index.php
 ```
 
 # Happy Hacking
