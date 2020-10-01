@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 		if ($_POST["pass"] == "persia_is_nice")
 		{
 			$_SESSION["user"] = $_POST["username"];
-			header("Location: http://192.168.41.128/Login_page/welcome.php");
+			header("Location: http://localhost/Login_page/welcome.php");
 		}
 		elseif ($_POST["pass"] != "persia_is_nice")
 		{
