@@ -11,6 +11,7 @@ Nowadays CTF is a game designed to let you learn to hack in a safe, rewarding en
 
 * Loopholes Identification
 * Source Code Inspection
+* Cracking The Given Hints
 * Program Evaluation
 * Evaluation of Encrypted Text
 * Thinking Out of The Box
