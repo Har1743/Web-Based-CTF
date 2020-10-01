@@ -17,7 +17,18 @@ Nowadays CTF is a game designed to let you learn to hack in a safe, rewarding en
 * Thinking Out of The Box
 * Relating Things
 * Look into The Dark
-  
+
+## Instructions to play this ctf
+
+```
+do with root user
+cd /var/www/html
+git clone
+cd 
+chmod -R 777 *
+
+```
+
 # Happy Hacking
 
 ## Created by
