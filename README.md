@@ -1,5 +1,5 @@
 # Web-Based-CTF
-A web based Capture The Flag for CTF beginner players   
+A web based Capture The Flag for CTF beginner players is designed in such a way that even an beginner level player can solve it by using their pentesting and programming knowledge or skills.    
 
 ## What is a CTF
 
