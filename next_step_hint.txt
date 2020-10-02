@@ -1,0 +1,19 @@
+
+							!--- Hey ---!
+
+			---> Nice you have cracked the hint now here's an another task for you <--- 
+
+	***  === Now crack that some_text in the python code given below as it will help you to reach to next step ===	*** 
+
+hint = some_text 
+
+first = hint[0:9]
+second = hint[9:19]
+
+==>> first  =  \146\154\141\147\137\154\101\163\164
+
+==>> second =  X3BBRzMuaHRtbA==
+
+
+
+				####	Now let's see you can crack the some_text value or not	####
